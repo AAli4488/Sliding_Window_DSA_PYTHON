@@ -5,7 +5,7 @@ This repository contains my **Data Structures and Algorithms (DSA)** practice us
 The goal of this repository is to build **strong problem-solving skills**, understand **core concepts deeply**, and prepare for **technical interviews**.
 ---
 ##  Topics Covered
-### ✅ Sliding Window
+###  Sliding Window
 - Fixed window problems
 - Variable window problems
 - Subarray sum & length optimization
@@ -30,7 +30,7 @@ The goal of this repository is to build **strong problem-solving skills**, under
 
 ---
 
-## 🚀 Future Topics (Planned)
+## Future Topics (Planned)
 - Hashing (Dictionary & Set)
 - Strings
 - Stack
@@ -42,6 +42,6 @@ The goal of this repository is to build **strong problem-solving skills**, under
 
 ---
 
-## ✨ Author
+## Author
 **Ayesha Siddiqa**  
 DSA Practice Repository
